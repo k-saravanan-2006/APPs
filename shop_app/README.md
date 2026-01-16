@@ -62,7 +62,7 @@ Cart page shows selected items
 User can continue shopping
 ## Screenshots
 
-![Shop App Screenshot](assets/images/shop_app.png)
+![Shop App Screenshot](assets/images/shop_app.jpeg)
 
 
 
